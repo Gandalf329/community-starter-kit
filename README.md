@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is kek bot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Lol, this is not a kek bot.
 
 ## Getting started
 
