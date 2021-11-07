@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Example: "Hello world"; "WTF"; "Lakers"; "FCBarcelona".
